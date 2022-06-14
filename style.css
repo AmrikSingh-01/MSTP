@@ -159,52 +159,48 @@ html, body{
             0%
             {
                 background-image:url("i1.png");
-                background-size:auto 115%;
-                background-position:center;
+               
             }
             18.75%
             {
                 background-image: url("i1.png");
-                background-size:auto 115%;
-                background-position:center;
+               
             }
             25%
             {
                 background-image: url("i2.png");
-                background-size:auto 95%;
+                
             }
             43.75%
             {
                 background-image: url("i2.png");
-                background-size:auto 95%;
+                
             }
             50%
             {
                 background-image: url("i4.png");
-                background-size:contain;
+                
             }
             68.75%
             {
                 background-image: url("i4.png");
-                background-size:contain;
+                
             }
             75%
             {
                 background-image: url("i5.png");
-                background-size:contain;
-                background-position:bottom;
+                
             }
             93.75%
             {
                 background-image: url("i5.png");
-                background-size:contain;
-                background-position:bottom;
+                
+                
             }
             100%
             {
                 background-image: url("i1.png");
-                background-size:auto 115%;
-                background-position:center;
+                
             }
 
         }
